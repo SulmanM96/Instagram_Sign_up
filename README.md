@@ -1,4 +1,4 @@
-#Instagram_Sign_In
+#Instagram Sign In
 The aim was to try and recreate the Instagram sign in page
 
 Prerequisites
